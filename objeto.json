@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1000,
+        "nome": "Catuxa",
+        "altura": 1.70,
+        "cancelado": false,
+        "amigos": [1001, 1003]
+
+    },
+    {
+        "id": 1001,
+        "nome": "Ines Brasil",
+        "altura": 1.72,
+        "cancelado": true,
+        "amigos": [1000, 1003]
+
+    },
+    {
+        "id": 1002,
+        "nome": "Lulala",
+        "altura": 1.68,
+        "cancelado": false,
+        "amigos": [1001, 1003]
+
+    },
+    {
+        "id": 1003,
+        "nome": "Sereno",
+        "altura": 1.90,
+        "cancelado": false,
+        "amigos": [1000, 1001, 1002]
+
+    },
+    {
+        "id": 1003,
+        "nome": "Robô",
+        "altura": 1.50,
+        "cancelado": true,
+        "amigos": []
+
+    }
+]
